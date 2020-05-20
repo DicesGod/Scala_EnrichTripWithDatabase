@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8d0b96b8-bdb9-460d-81b0-ae8072b2c237" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+        <option value="Scala Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1br1ztmKXep087mFcWMlmrMHuNm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/scala/ca/mcit/model" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ca.mcit.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala/ca/mcit/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Option2">
+    <configuration name="Enriched_trip (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.mcit.option2.Enriched_trip" />
+      <module name="course4project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.mcit.option2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enriched_trip" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Enriched_trip" />
+      <module name="course4project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HiveClient" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.mcit.bigdata.hive.HiveClient" />
+      <module name="course4project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.mcit.bigdata.hive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Option1" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.mcit.option1.Option1" />
+      <module name="course4project" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Option2" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ca.mcit.option2.Option2" />
+      <module name="course4project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.mcit.option2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Option2" />
+        <item itemvalue="Application.Enriched_trip (1)" />
+        <item itemvalue="Application.Option1" />
+        <item itemvalue="Application.HiveClient" />
+        <item itemvalue="Application.Enriched_trip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="course4project" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="course4project [file:/Users/minhle/Desktop/Projects/course4project/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="course4project-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3171097911820" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3037095249" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../zk" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d0b96b8-bdb9-460d-81b0-ae8072b2c237" name="Default Changelist" comment="" />
+      <created>1589375663724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589375663724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="70" key="#Inspections" timestamp="1589818944304">
+      <screen x="0" y="23" width="1440" height="773" />
+    </state>
+    <state x="320" y="70" key="#Inspections/0.23.1440.773@0.23.1440.773" timestamp="1589818944304" />
+    <state x="320" y="70" key="#Project_Structure" timestamp="1589988833753">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state x="320" y="70" key="#Project_Structure/0.23.1440.761@0.23.1440.761" timestamp="1589988833753" />
+    <state x="458" y="181" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590016416217">
+      <screen x="0" y="23" width="1440" height="779" />
+    </state>
+    <state x="458" y="178" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.761@0.23.1440.761" timestamp="1589999651430" />
+    <state x="458" y="179" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.767@0.23.1440.767" timestamp="1590011037840" />
+    <state x="458" y="180" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.773@0.23.1440.773" timestamp="1589819570672" />
+    <state x="458" y="181" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.779@0.23.1440.779" timestamp="1590016416217" />
+    <state x="321" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1589937202432">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state x="321" y="334" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.761@0.23.1440.761" timestamp="1589937202432" />
+    <state x="492" y="273" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589819537642">
+      <screen x="0" y="23" width="1440" height="773" />
+    </state>
+    <state x="492" y="269" width="455" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.761@0.23.1440.761" timestamp="1589756068967" />
+    <state x="492" y="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.773@0.23.1440.773" timestamp="1589819537642" />
+    <state x="492" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1589937204055">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state x="492" y="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1440.761@0.23.1440.761" timestamp="1589937204055" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom" timestamp="1590017824010">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.0.bottom/0.23.1440.761@0.23.1440.761" timestamp="1590003680081" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.767@0.23.1440.767" timestamp="1590012220638" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.773@0.23.1440.773" timestamp="1590012781431" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.779@0.23.1440.779" timestamp="1590016763479" />
+    <state width="1398" height="218" key="GridCell.Tab.0.bottom/0.23.1440.783@0.23.1440.783" timestamp="1590017824010" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center" timestamp="1590017824009">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.0.center/0.23.1440.761@0.23.1440.761" timestamp="1590003680080" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.767@0.23.1440.767" timestamp="1590012220638" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.773@0.23.1440.773" timestamp="1590012781428" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.779@0.23.1440.779" timestamp="1590016763477" />
+    <state width="1398" height="218" key="GridCell.Tab.0.center/0.23.1440.783@0.23.1440.783" timestamp="1590017824009" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left" timestamp="1590017824009">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.0.left/0.23.1440.761@0.23.1440.761" timestamp="1590003680080" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.767@0.23.1440.767" timestamp="1590012220637" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.773@0.23.1440.773" timestamp="1590012781422" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.779@0.23.1440.779" timestamp="1590016763476" />
+    <state width="1398" height="218" key="GridCell.Tab.0.left/0.23.1440.783@0.23.1440.783" timestamp="1590017824009" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right" timestamp="1590017824010">
+      <screen x="0" y="23" width="1440" height="783" />
+    </state>
+    <state width="1398" height="192" key="GridCell.Tab.0.right/0.23.1440.761@0.23.1440.761" timestamp="1590003680081" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.767@0.23.1440.767" timestamp="1590012220638" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.773@0.23.1440.773" timestamp="1590012781429" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.779@0.23.1440.779" timestamp="1590016763477" />
+    <state width="1398" height="218" key="GridCell.Tab.0.right/0.23.1440.783@0.23.1440.783" timestamp="1590017824010" />
+    <state width="1398" height="239" key="GridCell.Tab.1.bottom" timestamp="1589836415651">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.bottom/0.23.1440.761@0.23.1440.761" timestamp="1589836415651" />
+    <state width="1398" height="239" key="GridCell.Tab.1.center" timestamp="1589836415651">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.center/0.23.1440.761@0.23.1440.761" timestamp="1589836415651" />
+    <state width="1398" height="239" key="GridCell.Tab.1.left" timestamp="1589836415651">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.left/0.23.1440.761@0.23.1440.761" timestamp="1589836415651" />
+    <state width="1398" height="239" key="GridCell.Tab.1.right" timestamp="1589836415651">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state width="1398" height="239" key="GridCell.Tab.1.right/0.23.1440.761@0.23.1440.761" timestamp="1589836415651" />
+    <state x="441" y="270" key="NewModule_or_Project.wizard" timestamp="1589375706921">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state x="441" y="270" key="NewModule_or_Project.wizard/0.23.1440.761@0.23.1440.761" timestamp="1589375706921" />
+    <state x="376" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1589925194828">
+      <screen x="0" y="23" width="1440" height="761" />
+    </state>
+    <state x="376" y="238" key="com.intellij.ide.util.TipDialog/0.23.1440.761@0.23.1440.761" timestamp="1589925194828" />
+  </component>
+</project>
